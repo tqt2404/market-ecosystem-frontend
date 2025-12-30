@@ -1,0 +1,12 @@
+{
+  "name": "Fire Sorcerer #2",
+  "description": "Bậc thầy triệu hồi lửa từ địa ngục.",
+  "image": "/images/mage.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Mage" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Intelligence", "value": 95 },
+    { "trait_type": "Mana", "value": 100 },
+    { "trait_type": "Rareness", "value": "Rare" }
+  ]
+}

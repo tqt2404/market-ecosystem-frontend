@@ -1,0 +1,12 @@
+{
+  "name": "Sun Knight #7",
+  "description": "Hiệp sĩ của mặt trời, vừa có sức tấn công mạnh mẽ vừa có hào quang bảo vệ.",
+  "image": "/images/paladin.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Paladin" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Holy Power", "value": 88 },
+    { "trait_type": "Aura Range", "value": "Medium" },
+    { "trait_type": "Rareness", "value": "Epic" }
+  ]
+}

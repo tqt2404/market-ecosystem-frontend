@@ -1,0 +1,12 @@
+{
+  "name": "Midnight Blade #4",
+  "description": "Nhanh như chớp, kết liễu mục tiêu trong một nhát chém.",
+  "image": "/images/assassin.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Assassin" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Speed", "value": 98 },
+    { "trait_type": "Critical Hit", "value": 85 },
+    { "trait_type": "Rareness", "value": "Epic" }
+  ]
+}

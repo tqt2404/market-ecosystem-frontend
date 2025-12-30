@@ -1,0 +1,12 @@
+{
+  "name": "Mountain Giant #5",
+  "description": "Lớp giáp dày như đá tảng, không gì có thể xuyên thủng.",
+  "image": "/images/tanker.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Tanker" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Defense", "value": 99 },
+    { "trait_type": "Health", "value": 120 },
+    { "trait_type": "Rareness", "value": "Legendary" }
+  ]
+}

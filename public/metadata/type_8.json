@@ -1,0 +1,12 @@
+{
+  "name": "Soul Weaver #8",
+  "description": "Kẻ điều khiển linh hồn, có thể triệu hồi đội quân bóng đêm từ hư vô.",
+  "image": "/images/necromancer.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Necromancer" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Summon Limit", "value": 5 },
+    { "trait_type": "Dark Magic", "value": 94 },
+    { "trait_type": "Rareness", "value": "Legendary" }
+  ]
+}

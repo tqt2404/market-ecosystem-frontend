@@ -1,0 +1,12 @@
+{
+  "name": "Shadow Archer #3",
+  "description": "Bắn hạ kẻ địch từ khoảng cách hàng dặm trong bóng tối.",
+  "image": "/images/archer.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Archer" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Agility", "value": 92 },
+    { "trait_type": "Precision", "value": 88 },
+    { "trait_type": "Rareness", "value": "Common" }
+  ]
+}

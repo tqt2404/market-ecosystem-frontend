@@ -1,0 +1,12 @@
+{
+  "name": "Holy Priest #6",
+  "description": "Người mang ánh sáng cứu rỗi, có khả năng hồi phục vết thương ngay lập tức.",
+  "image": "/images/supporter.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Supporter" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Healing", "value": 95 },
+    { "trait_type": "Buff Power", "value": 80 },
+    { "trait_type": "Rareness", "value": "Rare" }
+  ]
+}

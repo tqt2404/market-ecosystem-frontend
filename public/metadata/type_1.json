@@ -1,0 +1,12 @@
+{
+  "name": "Steel Knight #1",
+  "description": "Một chiến binh bọc thép với khả năng phòng ngự tuyệt đối.",
+  "image": "/images/warrior.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Warrior" },
+    { "trait_type": "Level", "value": 1 },
+    { "trait_type": "Strength", "value": 85 },
+    { "trait_type": "Stamina", "value": 90 },
+    { "trait_type": "Rareness", "value": "Common" }
+  ]
+}
